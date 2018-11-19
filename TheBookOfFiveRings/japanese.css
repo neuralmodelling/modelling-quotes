@@ -1,3 +1,6 @@
 figure {
 	writing-mode: vertical-rl;
 	}
+.upright { 
+    text-orientation: upright; 
+    }
